@@ -16,8 +16,8 @@
 
 ### Админы и модераторы
 
-@DreaMinder
-@yhrskr
-@staslashmanov
-@theartkod
+@DreaMinder \
+@yhrskr \
+@staslashmanov \
+@theartkod \
 @iNerV
